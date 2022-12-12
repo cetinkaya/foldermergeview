@@ -8,7 +8,7 @@ When you first start `foldermergeview`, it create as a settings file, the conten
 
 On linux the settings file is located at `~/.config/ahmet.ac/foldermergeview.conf`
 
-Here is an example settings file.:
+Here is an example settings file:
 
 ~~~
 [General]
