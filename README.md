@@ -22,4 +22,4 @@ Here the folder `/tmp/docs` is listed as a folder that `foldermergeview` should 
 
 ## Compilation
 
-`foldermergeview` uses Qt for the user interface and the source code in c++. The repository includes a qtcreator project file for easy compilation.    
+`foldermergeview` uses Qt for the user interface and the source code in C++. The repository includes a qtcreator project file for easy compilation.    
