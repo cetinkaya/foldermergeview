@@ -4,7 +4,7 @@ foldermergeview is a small app that shows all files in all subfolders of a given
 ![screenshot](screenshot.png)
 
 ## How to use
-When you first start foldermergeview, it create as a settings file the contents of which can then be changed to specify which folders `foldermergeview` should look at and which files it should list. 
+When you first start `foldermergeview`, it create as a settings file, the contents of which can then be changed to specify which folders `foldermergeview` should look at and which files it should list. 
 
 On linux the settings file is located at `~/.config/ahmet.ac/foldermergeview.conf`
 
